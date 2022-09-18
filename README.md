@@ -17,7 +17,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/fmachadoweb/operadores-em-java-exercicio"><strong>Explorar arquivos »</strong></a>
+    <a href="https://github.com/fmachadoweb/operators-in-java"><strong>Explorar arquivos »</strong></a>
     <br />
     <br />
   </p>
@@ -29,7 +29,7 @@
 
 Fernando Machado - [@fmachadoweb](https://twitter.com/fmachadoweb) - fernandomachadoweb@gmail.com
 
-Project Link: [https://github.com/fmachadoweb/operadores-em-java-exercicio](https://github.com/fmachadoweb/operadores-em-java-exercicio)
+Project Link: [https://github.com/fmachadoweb/operators-in-java](https://github.com/fmachadoweb/operators-in-java)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
